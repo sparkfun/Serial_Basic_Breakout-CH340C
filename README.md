@@ -2,11 +2,11 @@ SparkFun Serial Basic Breakout - CH340C
 ========================================
 
 ![SparkFun Serial Basic Breakout - CH340C]()
-[*SparkFun Serial Basic Breakout - CH340C ()*]()
+[https://cdn.sparkfun.com//assets/parts/1/1/8/8/8/14050-01.jpg*SparkFun Serial Basic Breakout - CH340C ()*]()
 
 This is a CH340C based board that converts USB to Serial. We've added USB-C to
 the Serial Basic line which can provide up to 1.5 Amps of power to your next
-project. USB-C is also _reversable_, which means you'll never plue in a cable
+project. USB-C is also _reversable_, which means you'll never plug in a cable
 wrong again. It follows the standard Arduino pin out so this can be used to program the Pro 
 and Pro Mini line of Arduinos.  It can also be used as a general serial device for debugging 
 (such as with a GPS module).
