@@ -1,8 +1,9 @@
 SparkFun Serial Basic Breakout - CH340C
 ========================================
 
-![SparkFun Serial Basic Breakout - CH340C]()
-[https://cdn.sparkfun.com//assets/parts/1/1/8/8/8/14050-01.jpg*SparkFun Serial Basic Breakout - CH340C ()*]()
+[![SparkFun Serial Basic Breakout - CH340C](https://cdn.sparkfun.com/r/600-600/assets/parts/1/3/4/5/2/15096-SparkFun_Serial_Basic_Breakout_-_CH340C_and_USB-C-01.jpg)](https://www.sparkfun.com/products/15096)
+
+[*SparkFun Serial Basic Breakout - CH340C (DEV-15096)*](https://www.sparkfun.com/products/15096)
 
 This is a CH340C based board that converts USB to Serial. We've added USB-C to
 the Serial Basic line which can provide up to 1.5 Amps of power to your next
