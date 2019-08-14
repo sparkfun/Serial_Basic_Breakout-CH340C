@@ -24,6 +24,8 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/serial-basic-hookup-guide)** - Basic hookup guide
+* **[How to Install CH340 Drivers](https://www.sparkfun.com/ch340)** - Drivers if you need
+
 
 License Information
 -------------------
