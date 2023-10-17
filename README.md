@@ -26,7 +26,7 @@ Documentation
 
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/15096_sparkfun_serial_basic_breakout_ch340c_usb_c.fzpz)** - Fritzing diagrams for SparkFun products.
 * **[How to Install CH340 Drivers](https://www.sparkfun.com/ch340)** - Drivers if you need
-* * **[Hookup Guide](https://learn.sparkfun.com/tutorials/serial-basic-hookup-guide)** - Basic hookup guide
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/serial-basic-hookup-guide)** - Basic hookup guide
 
 
 License Information
